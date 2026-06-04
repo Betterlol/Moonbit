@@ -1,0 +1,6 @@
+{
+  "code-runner.executorMapByGlob": {
+    "*_test.mbt": "cd $workspaceRoot && moon test",
+    "*.mbt": "cd $workspaceRoot && moon run cmd/main"
+  }
+}

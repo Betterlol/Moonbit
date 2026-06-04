@@ -1,0 +1,7 @@
+import {
+  "demo_user/moon_demo" @demo,
+}
+
+options(
+  "is-main": true,
+)
