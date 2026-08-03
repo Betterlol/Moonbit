@@ -4,3 +4,6 @@
 [submodule "vscode-moon-zod-schema"]
 	path = vscode-moon-zod-schema
 	url = https://github.com/Betterlol/vscode-moon-zod-schema.git
+[submodule "notes"]
+	path = notes
+	url = https://github.com/Betterlol/moonbit-notes
